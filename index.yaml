@@ -2,7 +2,19 @@ apiVersion: v1
 entries:
   bitcoin-controller-helm-qa:
   - apiVersion: v1
-    created: 2019-05-12T21:47:07.400039144+02:00
+    appVersion: "0.62"
+    created: 2019-05-13T07:51:44.895384309Z
+    description: A bitcoin controller for Kubernetes
+    digest: 556af2524bc10665ee76c27dd753dafca7b1fc00450eecfc8be0af66bb606247
+    maintainers:
+    - name: christianb93
+      url: https://www.github.com/christianb93/bitcoin-controller
+    name: bitcoin-controller-helm-qa
+    urls:
+    - bitcoin-controller-helm-qa-0.62.tgz
+    version: "0.62"
+  - apiVersion: v1
+    created: 2019-05-13T07:51:44.892683992Z
     description: A bitcoin controller for Kubernetes
     digest: 23249eec0ba4bcea14349e366c944dd36da9b1503d14761013ef04b35c578a6b
     maintainers:
@@ -12,4 +24,4 @@ entries:
     urls:
     - bitcoin-controller-helm-qa-0.6.tgz
     version: "0.6"
-generated: 2019-05-12T21:47:07.399245766+02:00
+generated: 2019-05-13T07:51:44.890403627Z
